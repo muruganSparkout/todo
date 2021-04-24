@@ -1,0 +1,19 @@
+{
+    "name": "murugan/todo",
+    "description": "simple todo list",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Murugan",
+            "email": "murugan@sparkouttech.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Murugan\\Todo\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
